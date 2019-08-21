@@ -34,6 +34,7 @@ Las y Los esperamos!
 
 Registration: https://www.meetup.com/papers-we-love-buenos-aires/events/263510138/
 
-## Friday, November 29: Linux Kernel Workshop
+## Thursday, November 28 & Friday, November 29: Linux Kernel Workshop
 Dictated by Ezequiel García
+14:00 to 18:30
 Venue to be confirmed
