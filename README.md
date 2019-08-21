@@ -1,7 +1,7 @@
 # Events
 Calendar of Lambda's upcoming public events
 
-## Tuesday, August 27:
+## Tuesday, August 27: Erlang & Elixir Meetup
 Description: 
 El martes 27/08 a las 18:30 nos volvemos a encontrar para una nueva meetup, esta vez en las oficinas de PhinxLab!
 
