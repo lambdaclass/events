@@ -21,6 +21,19 @@ Les pedimos que por favor confirmen asistencia a conciencia si realmente van a a
 
 Registration: https://www.meetup.com/BeamBA/events/263391056/
 
+## Friday, September 6: Papers We Love Buenos Aires - First Meetup
+
+Description:
+Estamos organizando el primer meetup de Papers We Love Buenos Aires en la oficina de LambdaClass (https://lambdaclass.com/) que está a unas cuadras del obelisco, en Hipólito Yrigoyen 1189 Primer Piso Departamento B. El meetup tendrá lugar el viernes 6 de Septiembre de 2019 a las 18:30.
+
+Sebastian Wasibrot va a dar una charla titulada "The A/B effect" sobre randomized experiments. El paper pueden encontrarlo acá: https://www.pnas.org/content/116/22/10723
+
+Federico Carrone va a hablar sobre un paper de sistemas distribuidos titulado "Naiad: a timely dataflow system" y sobre una de sus implementaciones. El paper pueden encontrarlo acá: https://dl.acm.org/citation.cfm?id=2522738.
+
+Las y Los esperamos!
+
+Registration: https://www.meetup.com/papers-we-love-buenos-aires/events/263510138/
+
 ## Friday, November 29: Linux Kernel Workshop
 Dictated by Ezequiel García
 Venue to be confirmed
