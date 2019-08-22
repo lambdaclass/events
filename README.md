@@ -42,14 +42,14 @@ The workshop will be introductory but very practical. The event will take place 
 
 If you have any question please contact us at: federico.carrone@lambdaclass.com
 
-### Atendees will need to have:
+#### Atendees will need to have:
 - a laptop that can compile the Linux Kernel in a reasonable time
 - basic C experience
 - basic Linux and POSIX knowledge (shell knowledge for example)
 - experience with git
 - a working qemu working environment that can be setup following these instructions: https://lkcamp.gitlab.io/lkcamp_docs/intro_course/lab01/
 
-### The workshop will be hosted by Ezequiel Garcia and [LambdaClass](https://lambdaclass.com/).
+#### The workshop will be hosted by Ezequiel Garcia and [LambdaClass](https://lambdaclass.com/).
 
 Ezequiel is an Open Source hacker, specialized in embedded Linux and
 Linux Kernel development.
@@ -63,7 +63,7 @@ BuzzConf BA 2018 and Linux Developer Conference Brazil 2018.
 In 2018 Ezequiel joined Collabora, Ltd. to work on the coolest
 projects on earth!
 
-### Sponsored by LambdaClass and Collabora.
+#### Sponsored by LambdaClass and Collabora.
 
 Collabora is a global consultancy specialising in delivering the
 benefits of Open Source software to the commercial world. Whether it's
