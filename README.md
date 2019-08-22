@@ -49,7 +49,7 @@ If you have any question please contact us at: federico.carrone@lambdaclass.com
 - experience with git
 - a working qemu working environment that can be setup following these instructions: https://lkcamp.gitlab.io/lkcamp_docs/intro_course/lab01/
 
-### The workshop will be hosted by Ezequiel Garcia and LambdaClass (https://lambdaclass.com/).
+### The workshop will be hosted by Ezequiel Garcia and [LambdaClass](https://lambdaclass.com/).
 
 Ezequiel is an Open Source hacker, specialized in embedded Linux and
 Linux Kernel development.
@@ -75,5 +75,5 @@ differentiation, enabling them to develop the best solutions. From
 tailoring the latest Open Source technologies to your projects, to
 integrating Open Source methodologies into your organisation,
 Collabora can help you navigate the ever-evolving world of Open
-Source. Learn more at collabora.com.
+Source. Learn more at [collabora.com](https://www.collabora.com/).
 
