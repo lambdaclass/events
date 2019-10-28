@@ -1,6 +1,17 @@
 # Events
 Calendar of Lambda's upcoming public events
 
+## Friday, November 22: Papers We Love Buenos Aires - Intro to information theory and its applications in ML
+
+La charla va a ser una introducción a Information Theory y sus aplicaciones a Machine Learning. La charla la va a dar Sergio Soage (https://medium.com/@Sergio_Soage)
+
+Comienza a las 18:30
+
+Las y Los esperamos!
+
+Inscripción: https://www.meetup.com/papers-we-love-buenos-aires/events/265589840/
+
+
 ## Friday, November 29: Papers We Love Buenos Aires - Intro to ergodicity economics
 
 The talk will be given by Marcos Feole.
@@ -11,15 +22,14 @@ The meetup begins at 19:00
 
 Registration: https://www.meetup.com/papers-we-love-buenos-aires/events/265755117/
 
-## Friday, November 22: Papers We Love Buenos Aires - Intro to information theory and its applications in ML
+## Friday, December : Papers We Love Buenos Aires - Practical introduction to Bayesian statistics
 
-La charla va a ser una introducción a Information Theory y sus aplicaciones a Machine Learning. La charla la va a dar Sergio Soage (https://medium.com/@Sergio_Soage)
+La charla va a ser dada por Marianela Sarabia https://twitter.com/marianelsarabia
 
-Comienza a las 18:30
+Comienza a las 18:00
 
-Las y Los esperamos!
+Inscripción: https://www.meetup.com/papers-we-love-buenos-aires/events/265619096/
 
-Inscripción: https://www.meetup.com/papers-we-love-buenos-aires/events/265589840/
 
 ## DATE TO BE ANNOUNCED: Hands-On Linux Kernel Workshop
 
